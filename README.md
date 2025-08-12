@@ -1,6 +1,6 @@
 # Formula 1 Sponsorship Relevance Ranking Tool
 
-This project was completed as a Case Study for DS3010.
+*This project was completed as a Case Study for DS3010.*
 
 # Business Problem
 The F1 has 10 different teams with different drivers each season. How should companies decide who is the most ideal to sponsor?
